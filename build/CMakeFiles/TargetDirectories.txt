@@ -1,0 +1,3 @@
+/home/azj-ubuntu/test/ExampleOpenCV/build/CMakeFiles/rebuild_cache.dir
+/home/azj-ubuntu/test/ExampleOpenCV/build/CMakeFiles/edit_cache.dir
+/home/azj-ubuntu/test/ExampleOpenCV/build/CMakeFiles/readPic.dir

@@ -1,0 +1,1 @@
+/opt/gcc-linaro-6.5.0-2018.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-g++    -rdynamic CMakeFiles/readPic.dir/readPic.cpp.o  -o readPic  -L/home/azj-ubuntu/test/ExampleOpenCV/opencv/lib -Wl,-rpath,/home/azj-ubuntu/test/ExampleOpenCV/opencv/lib -lopencv_world 
